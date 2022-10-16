@@ -1,6 +1,5 @@
-
-function myFunction() {
   console.log("test");
-}
+  console.log("tddd");
+
 
 
